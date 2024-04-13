@@ -1,9 +1,10 @@
 
-### Olá! Eu sou o Caio Alves ✌️
+## Bem vindo ao meu Github ✌️
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://caio-as.github.io/portfolio/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caio_as@yahoo.com.br)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-alves-de-souza-76a574a6/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-alves-de-souza-76a574a6/) 
 
 ![Caio Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-as&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-as&layout=compact)
@@ -19,11 +20,13 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</div><br/>
+</div>
+<br/>
 
 ### Bio:
-Entusiasta da técnologia: hardware, software e IA; <br/>
-Graduando em Analise e Desenvolvimento de Sistemas; <br/>
-Estagiando em analise de dados pela Desktop Internet; <br/>
-Atualmente estou estudando C# e a framework .NET Core; <br/>
+Entusiasta da técnologia: hardware, software e IA 💻 <br/>
+Graduando em Analise e Desenvolvimento de Sistemas 🧑‍🏫 <br/>
+Estagiando em analise de dados pela Desktop Internet 🌐 <br/>
+Atualmente estou estudando C# e a framework .NET Core 🪟 <br/>
 Gosto de ficar com a família 👩‍❤️‍💋‍👨, acampar ao ar livre 🏕️, cozinhar 🍔 e jogar video-game 🎮<br/>
+

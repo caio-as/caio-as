@@ -22,7 +22,7 @@
 </div><br/>
 
 ### Bio:
-Entusiasta de técnologia: hardware, software e IA; <br/>
+Entusiasta da técnologia: hardware, software e IA; <br/>
 Graduando em Analise e Desenvolvimento de Sistemas; <br/>
 Estagiando em analise de dados pela Desktop Internet; <br/>
 Atualmente estou estudando C# e a framework .NET Core; <br/>

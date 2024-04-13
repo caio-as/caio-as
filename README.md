@@ -27,6 +27,6 @@
 Entusiasta da técnologia: hardware, software e IA 💻 <br/>
 Graduando em Analise e Desenvolvimento de Sistemas 🧑‍🏫 <br/>
 Estagiando em analise de dados pela Desktop Internet 🌐 <br/>
-Atualmente estou estudando C# e a framework .NET Core 🪟 <br/>
+Atualmente estou estudando C# e framework .NET Core 🪟 <br/>
 Gosto de ficar com a família 👩‍❤️‍💋‍👨, acampar ao ar livre 🏕️, cozinhar 🍔 e jogar video-game 🎮<br/>
 
